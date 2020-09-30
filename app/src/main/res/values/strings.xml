@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="text_hint_titulo">Sistemas</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_borrar">Borrar</string>
+
+
+
+
+
+</resources>
